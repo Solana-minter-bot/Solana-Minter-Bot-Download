@@ -16,5 +16,3 @@ Solana Minter Bot is an advanced automation tool designed for minting NFTs and t
 
 Solana Minter Bot is the perfect tool for those who want to take advantage of NFT drops and token minting on the Solana blockchain, automating the process and enhancing your trading opportunities.
 
-
-[![Download Solana MinterBot](https://img.shields.io/badge/Download-Solana%20MinterBot-blueviolet)](https://downeefiles.com/s/slnamntrbot)
